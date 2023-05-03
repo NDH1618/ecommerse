@@ -1,0 +1,24 @@
+.pagination_nana{
+    display: flex;
+    justify-content:space-between;
+    margin: 10px 190px;
+    font-size: 17px; 
+}
+.seach_input{
+    margin-top: 10px;
+}
+.seach_input input{
+    border-radius: 5px;
+    padding: 8px;
+    width: 200px;
+    font-weight: 600;
+    text-align: center;
+    border: 1px solid rgb(129, 175, 37);
+    
+}
+.seach_input button{
+    border-radius: 5px;
+    font-weight: 400;
+    padding: 8px;
+    border: 1px solid rgb(129, 175, 37);
+}

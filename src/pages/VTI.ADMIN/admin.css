@@ -1,0 +1,22 @@
+.Admin_product input{
+    padding: 10px;
+    margin: 10px;
+    width: 330px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: rgb(212, 231, 233);
+    border: 1px solid rgb(79, 110, 17);
+}
+.Admin_product button{
+    padding: 10px;
+    margin: 10px;
+    width: 80px; 
+    border-radius: 5px;
+    background-color: rgb(163, 199, 199);
+    border: 1px solid rgb(105, 145, 26);
+}
+.Admin_product{
+    background-color: rgb(223, 196, 156);
+    margin: 20px 200px;
+    border-radius: 6px;
+}

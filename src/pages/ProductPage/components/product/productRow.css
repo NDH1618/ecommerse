@@ -1,0 +1,22 @@
+.product_ct{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.imgproduct{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+
+}
+
+.imgproduct img{
+    width: 90%;
+    height: auto;
+
+}
+.product_pro{
+    text-align: left;
+    margin-left: 25px;
+}

@@ -1,0 +1,31 @@
+.img-jp{
+    width: 150px;
+}
+.botton{
+    font-weight: 700;
+    background-color: chartreuse;
+}
+.addproductfrom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 120px;
+    background-color: rgb(194, 182, 179);
+    border-radius: 20px;
+}
+.addproductfrom div {
+    
+    width: 400px;
+}
+.addproductfrom input {
+    font-size: 17px;
+    padding: 8px 55px;
+    background-color: rgb(215, 235, 228);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid greenyellow;
+}
+.addproductfrom p{
+    font-weight: 700;
+}

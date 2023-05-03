@@ -1,0 +1,23 @@
+.banner_nemu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    margin: 10px 30px;
+    height: 60px;
+
+    
+}
+.banner_nemu a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 10px 20px;
+    color: white;
+    
+}
+.img img{
+    width: 1200px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
